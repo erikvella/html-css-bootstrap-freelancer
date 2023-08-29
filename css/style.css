@@ -1,0 +1,27 @@
+
+[class="container-md"]{
+  
+  border: 3px solid rgb(29, 134, 29);
+  
+}
+
+.debug{
+  background-color: aquamarine;
+  border: 2px solid rgb(0, 140, 255);
+}
+
+.altezza{
+  height: 300px;
+}
+
+.container-ev{
+  width: 500px;
+  height: 600px;
+  margin: 0 auto;
+}
+
+section{
+  width: 100%;
+  background-color: salmon;
+}
+
