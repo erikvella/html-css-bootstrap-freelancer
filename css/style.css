@@ -13,10 +13,13 @@
 .altezza{
   height: 300px;
 }
-
+header{
+  height: 90px;
+  color: white;
+  background-color: rgb(1, 67, 96);
+}
 .container-ev{
   width: 500px;
-  height: 600px;
   margin: 0 auto;
 }
 
@@ -24,5 +27,8 @@ section{
   width: 100%;
   background-color: salmon;
   border: 3px solid purple;
+}
+.avatar{
+  width: 90%;
 }
 
